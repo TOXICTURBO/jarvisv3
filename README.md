@@ -1,3 +1,15 @@
+![My card name](https://cardivo.vercel.app/api?name=JARVIS%20-%20v3&description=Hi,%20Welcome%20To%20My%20Profile&image=https://www.linkpicture.com/q/JARVIS.jpg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=mr.covid_.19.edits&github=mdjifi&)
+</p>
+</p>
+
+
+<img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/qFw6AsQptpuzQ33Fjd/giphy.gif?cid=6c09b952d65a849d347feeab83b62850459c4e66cf9f4569&rid=giphy.gif&ct=g">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=insanebwoi&label=Profile%20views&color=0e75b6&style=flat" alt="insanebwoi" /> </p>
+
+
+
 # JARVIS V3
 <p align="center">
 <a href="#"><img title="SPARROW OFC" src="https://img.shields.io/badge/SPARROW-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>

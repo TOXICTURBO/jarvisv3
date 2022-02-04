@@ -1,10 +1,10 @@
 const petik = '```'
 
-const dtod = "919995801023@s.whatsapp.net"
+const dtod = "916380260672@s.whatsapp.net"
 const help = (prefix, wita, wit, ucapannya, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss) => {
 	return`
 ┌───〔 ɪɴғᴏʀᴍᴀᴛɪᴏɴ 〕
-┊🎀ᴄʀᴇᴀᴛᴏʀ : ᴀᴋsʜᴀʏ
+┊🎀ᴄʀᴇᴀᴛᴏʀ : Turbo
 ┊🎀ᴛɪᴍᴇ : ${timuu}
 ┊🎀ᴅᴀʏ : ${thisDay}
 ┊🎀ᴅᴀᴛᴇ : ${ini_tanggal}
@@ -25,13 +25,13 @@ const help = (prefix, wita, wit, ucapannya, timuu, status, wa_version, mcc, mnc,
 ┊
 ├───〔 ᴛʜᴀɴᴋs ᴛᴏ 〕
 ┊
-├〔 ᴀᴋsʜᴀʏ 〕
-├〔 ᴍᴅ ᴊɪғɪ 〕
-├〔 sᴘᴀʀʀᴏᴡ 〕
-├〔 ᴍᴏɴᴋᴇʏ 〕
-├〔 ᴊᴢ ᴍᴏᴅs 〕
-├〔 ᴀғsᴀʟ 〕
-├〔 ᴢᴇᴇᴏɴᴇ 〕
+├〔 Toxic Turbo 〕
+├〔 Toxic Jifi 〕
+├〔 Toxic Sparrow 〕
+├〔 Toxic Anand 〕
+├〔 Toxic Vicky 〕
+├〔 Toxic Danger 〕
+├〔 Toxic Bmf 〕
 ┊
 └───〔 ᴊᴀʀᴠɪs 〕
 `
@@ -183,13 +183,13 @@ const allmenu = (prefix, wita, wit, ucapannya, timuu, status, wa_version, mcc, m
 ┊
 ├───〔 ᴛʜᴀɴᴋs ᴛᴏ 〕
 ┊
-├〔 ᴀᴋsʜᴀʏ 〕
-├〔 ᴍᴅ ᴊɪғɪ 〕
-├〔 sᴘᴀʀʀᴏᴡ 〕
-├〔 ᴍᴏɴᴋᴇʏ 〕
-├〔 ᴊᴢ ᴍᴏᴅs 〕
-├〔 ᴀғsᴀʟ 〕
-├〔 ᴢᴇᴇᴏɴᴇ 〕
+├〔 Toxic Turbo 〕
+├〔 Toxic Jifi 〕
+├〔 Toxic Sparrow 〕
+├〔 Toxic Anand 〕
+├〔 Toxic Vicky 〕
+├〔 Toxic Danger 〕
+├〔 Toxic Bmf 〕
 ┊
 └───〔 ᴊᴀʀᴠɪs 〕
 `
